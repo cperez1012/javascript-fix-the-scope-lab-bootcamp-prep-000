@@ -33,5 +33,3 @@ function myfunkyfunction(){
 console.log("theFunk")
 
 }
-}
-}
