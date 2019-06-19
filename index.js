@@ -31,6 +31,6 @@ var funkyFunction = function() {
 var "theFunk" = funkyfunction(){
 function funkyfunction(){
 funkyFunction() = "FUNKY!"
-console.log(funkyfunction())
+console.log("theFunk")
 }
 }
